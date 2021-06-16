@@ -1,10 +1,10 @@
 <?php
 
-namespace Archambaultalex\Base64Image;
+namespace Archambaultalex\ImageField;
 
 use Laravel\Nova\Fields\Field;
 
-class Base64Image extends Field
+class ImageField extends Field
 {
     /**
      * The field's component.

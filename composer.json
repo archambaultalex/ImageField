@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Archambaultalex\\Base64Image\\": "src/"
+            "Archambaultalex\\ImageField\\": "src/"
         }
     },
     "extra": {
