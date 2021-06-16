@@ -11,5 +11,5 @@ class ImageField extends Field
      *
      * @var string
      */
-    public $component = 'base64-image';
+    public $component = 'image-field';
 }
