@@ -1,11 +1,9 @@
 {
-    "name": "archambaultalex/base64-image",
+    "name": "archambaultalex/ImageField",
     "description": "A Laravel Nova field used to display images",
     "authors": [
         {
             "name": "Alexandre Archambault",
-            "email": "j.boggiano@seld.be",
-            "homepage": "http://seld.be",
             "role": "Developer"
         }
     ],
@@ -25,7 +23,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Archambaultalex\\Base64Image\\FieldServiceProvider"
+                "Archambaultalex\\ImageField\\FieldServiceProvider"
             ]
         }
     },
