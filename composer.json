@@ -23,7 +23,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Archambaultalex\\ImageFiled\\FieldServiceProvider"
+                "Archambaultalex\\ImageField\\FieldServiceProvider"
             ]
         }
     },
