@@ -1,6 +1,6 @@
 <?php
 
-namespace Archambaultalex\Base64Image;
+namespace Archambaultalex\ImageField;
 
 use Illuminate\Support\ServiceProvider;
 use Laravel\Nova\Events\ServingNova;
