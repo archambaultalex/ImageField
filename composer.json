@@ -1,5 +1,5 @@
 {
-    "name": "archambaultalex/ImageField",
+    "name": "archambaultalex/image-field",
     "description": "A Laravel Nova field used to display images",
     "authors": [
         {
@@ -23,7 +23,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Archambaultalex\\ImageField\\FieldServiceProvider"
+                "Archambaultalex\\image-field\\FieldServiceProvider"
             ]
         }
     },
